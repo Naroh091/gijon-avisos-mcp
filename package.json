@@ -2,6 +2,7 @@
   "name": "gijon-avisos-mcp",
   "version": "0.1.0",
   "description": "Servidor MCP y CLI para el sistema de avisos del Ayuntamiento de Gijón (CuidaGijón)",
+  "license": "AGPL-3.0-only",
   "type": "module",
   "repository": {
     "type": "git",

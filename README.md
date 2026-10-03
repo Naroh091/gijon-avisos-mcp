@@ -207,3 +207,7 @@ nunca `funnel`). Para persistencia, `launchd`/`pm2`/`tmux` o similar.
 
 - Ingeniería inversa del APK "CuidaGijón" v2.5.1 + verificación en vivo de tipos
   y dry-runs (sin crear avisos reales).
+
+## Licencia
+
+AGPLv3. Ver [LICENSE](LICENSE).
