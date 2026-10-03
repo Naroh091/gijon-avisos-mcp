@@ -1,6 +1,6 @@
 ---
 name: gijon-avisos
-description: "Crea avisos al Ayto. de Gijón desde una foto (LOCAL, en pruebas)"
+description: "Crea avisos al Ayto. de Gijón desde una foto"
 version: 0.1.0
 platforms: [linux, macos]
 metadata:
